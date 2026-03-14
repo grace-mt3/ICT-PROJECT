@@ -1,0 +1,51 @@
+body {
+    background-color: powderblue; 
+}
+h1 {
+        text-align: center;
+}
+h2 {
+        color: rgb(108, 4, 90);
+    }
+h4 {
+        color: rgb(143, 6, 6);
+        font-size: 20px;
+    }
+table , th , td {
+        border: 3px solid navy;
+        border-collapse: collapse;
+        -o-table-baseline: inherit;
+    }
+th , td {
+        padding: 10px;
+        color: rgb(59, 59, 59); 
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+p { 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    width: 50%;
+}
+ol {
+    color: white;
+    font-size: 18px;
+}
+button {
+    background-color: rgb(108, 4, 90);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+div.imagecontainer {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
