@@ -1,1 +1,8 @@
-console.log("Welcome to ZenFlex Studio! Let's get moving and stay healthy together")
+let MyName = "ZenFlex Studio"; 
+console.log(MyName); 
+console.log(`Welcome to ${MyName} !`);
+let MyAge = "2"; 
+console.log(MyAge);
+let IsStudio = true;
+console.log(IsStudio);   
+window.alert(`Welcome to ${MyName} !\nRead the information below.`);
